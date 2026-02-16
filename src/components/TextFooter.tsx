@@ -23,9 +23,5 @@ export default function TextFooter() {
         to reveal <br /> <span className="text-gray-400">the surprise</span>
       </h1>
 
-      {/* Copyright */}
-   
-      </p>
-    </>
-  );
+    
 }
